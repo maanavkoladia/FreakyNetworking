@@ -1,0 +1,52 @@
+/******************************************************************************
+ *
+ * blinky.ld - Linker configuration file for blinky.
+ *
+ *****************************************************************************/
+
+MEMORY
+{
+    FLASH (rx) : ORIGIN = 0x00000000, LENGTH = 0x00040000
+    SRAM (rwx) : ORIGIN = 0x20000000, LENGTH = 0x00008000
+}
+
+SECTIONS
+{
+    .text :
+    {
+        _text = .;
+        KEEP(*(.isr_vector))
+        *(.text*)
+        *(.rodata*)
+        *(.init)
+        *(.fini)
+        _etext = .;
+    } > FLASH
+
+    /* --- Dummy unwind section --- */
+    .ARM.exidx (NOLOAD) : ALIGN(4)
+    {
+        KEEP(*(.ARM.exidx*))
+        KEEP(*(.ARM.extab*))
+    } > FLASH
+    /* --- end unwind dummy --- */
+
+    .data : AT(ADDR(.text) + SIZEOF(.text))
+    {
+        _data = .;
+        _ldata = LOADADDR (.data);
+        *(vtable)
+        *(.data*)
+        _edata = .;
+    } > SRAM
+
+    .bss :
+    {
+        __bss_start__ = .;
+        _bss = .;
+        *(.bss*)
+        *(COMMON)
+        _ebss = .;
+        __bss_end__ = .;
+    } > SRAM
+}

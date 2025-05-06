@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "LIB_ATWILC1000-MR110PB-T")(type "KiCad")(uri "${KIPRJMOD}/LIB_ATWILC1000-MR110PB-T")(options "")(descr ""))
+  (lib (name "hw")(type "KiCad")(uri "/home/ishdeshpa/Work/RTOS/445M_Networking/hw")(options "")(descr ""))
+)

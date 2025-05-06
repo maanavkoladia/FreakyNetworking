@@ -1,0 +1,10 @@
+add edge triggered isr
+
+add print support and trace down how its called
+
+turn off i2c
+
+wifi_firmware_1000b.h is the actauly firmware binary
+
+
+

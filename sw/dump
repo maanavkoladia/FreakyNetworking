@@ -1,0 +1,213 @@
+rm -rf build/*
+Used 8 for buidling
+
+Running Sim
+
+
+========================================
+⚙️ 1. Run python script 
+========================================
+========================================
+🔎 2. Inspecting offer response with tshark
+========================================
+========================================
+📦 3. Run rx
+========================================
+Error opening file
+========================================
+📦 4. Converting raw text hex dump to PCAP using text2pcap
+========================================
+========================================
+🔎 5. Inspecting converted PCAP with tshark
+========================================
+Frame 1: 542 bytes on wire (4336 bits), 542 bytes captured (4336 bits) on interface Fake IF, text2pcap, id 0
+    Section number: 1
+    Interface id: 0 (Fake IF, text2pcap)
+        Interface name: Fake IF, text2pcap
+    Encapsulation type: Ethernet (1)
+    Arrival Time: Apr 28, 2025 00:41:22.000001000 CDT
+    UTC Arrival Time: Apr 28, 2025 05:41:22.000001000 UTC
+    Epoch Arrival Time: 1745818882.000001000
+    [Time shift for this packet: 0.000000000 seconds]
+    [Time delta from previous captured frame: 0.000000000 seconds]
+    [Time delta from previous displayed frame: 0.000000000 seconds]
+    [Time since reference or first frame: 0.000000000 seconds]
+    Frame Number: 1
+    Frame Length: 542 bytes (4336 bits)
+    Capture Length: 542 bytes (4336 bits)
+    [Frame is marked: False]
+    [Frame is ignored: False]
+    [Protocols in frame: eth:ethertype:ip:udp:dhcp]
+Ethernet II, Src: MicrochipTec_87:18:3f (d8:47:8f:87:18:3f), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+    Destination: Broadcast (ff:ff:ff:ff:ff:ff)
+        .... ..1. .... .... .... .... = LG bit: Locally administered address (this is NOT the factory default)
+        .... ...1 .... .... .... .... = IG bit: Group address (multicast/broadcast)
+    Source: MicrochipTec_87:18:3f (d8:47:8f:87:18:3f)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Type: IPv4 (0x0800)
+    [Stream index: 0]
+Internet Protocol Version 4, Src: 192.168.0.100, Dst: 255.255.255.255
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+        0000 00.. = Differentiated Services Codepoint: Default (0)
+        .... ..00 = Explicit Congestion Notification: Not ECN-Capable Transport (0)
+    Total Length: 528
+    Identification: 0x1234 (4660)
+    010. .... = Flags: 0x2, Don't fragment
+        0... .... = Reserved bit: Not set
+        .1.. .... = Don't fragment: Set
+        ..0. .... = More fragments: Not set
+    ...0 0000 0000 0000 = Fragment Offset: 0
+    Time to Live: 64
+    Protocol: UDP (17)
+    Header Checksum: 0x659d [correct]
+    [Header checksum status: Good]
+    [Calculated Checksum: 0x659d]
+    Source Address: 192.168.0.100
+    Destination Address: 255.255.255.255
+    [Stream index: 0]
+User Datagram Protocol, Src Port: 68, Dst Port: 67
+    Source Port: 68
+    Destination Port: 67
+    Length: 508
+    Checksum: 0x0000 [zero-value ignored]
+        [Checksum Status: Not present]
+    [Stream index: 0]
+    [Stream Packet Number: 1]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (500 bytes)
+Dynamic Host Configuration Protocol
+    Message type: Boot Request (1)
+    Hardware type: Ethernet (0x01)
+    Hardware address length: 6
+    Hops: 0
+    Transaction ID: 0xdeadbeef
+    Seconds elapsed: 0
+    Bootp flags: 0x0000 (Unicast)
+        0... .... .... .... = Broadcast flag: Unicast
+        .000 0000 0000 0000 = Reserved flags: 0x0000
+    Client IP address: 0.0.0.0
+    Your (client) IP address: 0.0.0.0
+    Next server IP address: 0.0.0.0
+    Relay agent IP address: 0.0.0.0
+    Client MAC address: 00:00:00_00:00:00 (00:00:00:00:00:00)
+    Client hardware address padding: 00000000000000000000
+    Server host name not given
+    Boot file name not given
+    Bootp vendor specific options: 00ff0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+    Option: (0) Padding
+        Padding […]: 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+========================================
+🔎 6. Generating ack response...
+========================================
+Wrote DHCP ACK to 'temp/dhcp_ack.pcap' and 'temp/dhcp_ack.txt'.
+========================================
+🔎 7. Inspecting offer response with tshark
+========================================
+Frame 1: 316 bytes on wire (2528 bits), 316 bytes captured (2528 bits)
+    Encapsulation type: Ethernet (1)
+    Arrival Time: Apr 28, 2025 00:41:22.579428000 CDT
+    UTC Arrival Time: Apr 28, 2025 05:41:22.579428000 UTC
+    Epoch Arrival Time: 1745818882.579428000
+    [Time shift for this packet: 0.000000000 seconds]
+    [Time delta from previous captured frame: 0.000000000 seconds]
+    [Time delta from previous displayed frame: 0.000000000 seconds]
+    [Time since reference or first frame: 0.000000000 seconds]
+    Frame Number: 1
+    Frame Length: 316 bytes (2528 bits)
+    Capture Length: 316 bytes (2528 bits)
+    [Frame is marked: False]
+    [Frame is ignored: False]
+    [Protocols in frame: eth:ethertype:ip:udp:dhcp]
+Ethernet II, Src: Broadcast (ff:ff:ff:ff:ff:ff), Dst: MicrochipTec_87:18:3f (d8:47:8f:87:18:3f)
+    Destination: MicrochipTec_87:18:3f (d8:47:8f:87:18:3f)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Source: Broadcast (ff:ff:ff:ff:ff:ff)
+        .... ..1. .... .... .... .... = LG bit: Locally administered address (this is NOT the factory default)
+        .... ...1 .... .... .... .... = IG bit: Group address (multicast/broadcast)
+        [Expert Info (Warning/Protocol): Source MAC must not be a group address: IEEE 802.3-2002, Section 3.2.3(b)]
+            [Source MAC must not be a group address: IEEE 802.3-2002, Section 3.2.3(b)]
+            [Severity level: Warning]
+            [Group: Protocol]
+    Type: IPv4 (0x0800)
+    [Stream index: 0]
+Internet Protocol Version 4, Src: 192.168.1.1, Dst: 255.255.255.255
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+        0000 00.. = Differentiated Services Codepoint: Default (0)
+        .... ..00 = Explicit Congestion Notification: Not ECN-Capable Transport (0)
+    Total Length: 302
+    Identification: 0x0001 (1)
+    010. .... = Flags: 0x2, Don't fragment
+        0... .... = Reserved bit: Not set
+        .1.. .... = Don't fragment: Set
+        ..0. .... = More fragments: Not set
+    ...0 0000 0000 0000 = Fragment Offset: 0
+    Time to Live: 64
+    Protocol: UDP (17)
+    Header Checksum: 0x7815 [correct]
+    [Header checksum status: Good]
+    [Calculated Checksum: 0x7815]
+    Source Address: 192.168.1.1
+    Destination Address: 255.255.255.255
+    [Stream index: 0]
+User Datagram Protocol, Src Port: 67, Dst Port: 68
+    Source Port: 67
+    Destination Port: 68
+    Length: 282
+    Checksum: 0x972c [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 0]
+    [Stream Packet Number: 1]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (274 bytes)
+Dynamic Host Configuration Protocol (ACK)
+    Message type: Boot Reply (2)
+    Hardware type: Ethernet (0x01)
+    Hardware address length: 6
+    Hops: 0
+    Transaction ID: 0xdeadbeef
+    Seconds elapsed: 0
+    Bootp flags: 0x8000, Broadcast flag (Broadcast)
+        1... .... .... .... = Broadcast flag: Broadcast
+        .000 0000 0000 0000 = Reserved flags: 0x0000
+    Client IP address: 0.0.0.0
+    Your (client) IP address: 192.168.1.100
+    Next server IP address: 192.168.1.1
+    Relay agent IP address: 0.0.0.0
+    Client MAC address: MicrochipTec_87:18:3f (d8:47:8f:87:18:3f)
+    Client hardware address padding: 00000000000000000000
+    Server host name not given
+    Boot file name not given
+    Magic cookie: DHCP
+    Option: (53) DHCP Message Type (ACK)
+        Length: 1
+        DHCP: ACK (5)
+    Option: (54) DHCP Server Identifier (192.168.1.1)
+        Length: 4
+        DHCP Server Identifier: 192.168.1.1
+    Option: (51) IP Address Lease Time
+        Length: 4
+        IP Address Lease Time: 1 hour (3600)
+    Option: (1) Subnet Mask (255.255.255.0)
+        Length: 4
+        Subnet Mask: 255.255.255.0
+    Option: (3) Router
+        Length: 4
+        Router: 192.168.1.1
+    Option: (6) Domain Name Server
+        Length: 4
+        Domain Name Server: 8.8.8.8
+    Option: (255) End
+        Option End: 255
+
+✅ Done.

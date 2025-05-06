@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ATWILC1000-MR110PB-T")(type "KiCad")(uri "${KIPRJMOD}/LIB_ATWILC1000-MR110PB-T/ATWILC1000-MR110PB-T.kicad_sym")(options "")(descr ""))
+)

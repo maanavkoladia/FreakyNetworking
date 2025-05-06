@@ -1,0 +1,1594 @@
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 91, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 91, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 280, Remaining = 0, Data offset = 26, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 91, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 44
+[wifi_callback][68]Wi-Fi callback triggered! Message type: 44
+[wifi_callback][86]Wi-Fi connection state changed.
+[Task_NetworkingInit][471]NM BSP init finished
+
+[Wifi_Init][213]Starting Up Wifi Init
+
+[Wifi_Init][223]Wifi Init Sucess
+
+[Task_NetworkingInit][473]Wifi Init finished
+
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 7
+[wifi_callback][68]Wi-Fi callback triggered! Message type: 7
+[wifi_callback][167]Unknown Wi-Fi message type received.
+[Task_NetworkThread][430]Get MAC command received
+[get_mac][238]AP MAC:  
+DA:47:8F:87:18:3F
+[get_mac][241]STA MAC: 
+D8:47:8F:87:18:3F
+[Task_NetworkThread][406]Connect command received
+[Task_NetworkThread][413]SSID: iPhone (3)
+[Task_NetworkThread][414]Password: abcdefgh
+[Task_NetworkThread][416]Connecting to SSID: iPhone (3)
+[Task_NetworkThread][419]Connection request sent
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 44
+[wifi_callback][68]Wi-Fi callback triggered! Message type: 44
+[wifi_callback][86]Wi-Fi connection state changed.
+[Network_Connect][331]Connected to AP: iPhone (3) abcdefgh
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 342, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 342, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 280, Remaining = 0, Data offset = 26, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 42, Remaining = 0, Data offset = 26, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+ARP TX Reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 91, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 91, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 86, Remaining = 0, Data offset = 26, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 91, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 91, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 91, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 280, Remaining = 0, Data offset = 26, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 91, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 91, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 91, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 86, Remaining = 0, Data offset = 26, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 91, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 91, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 42, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+ARP TX Reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 54, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+hello world
+¬
+¬
+Ô1Ô1[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 86, Remaining = 0, Data offset = 26, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 54, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+hello world
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 279, Remaining = 0, Data offset = 26, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 86, Remaining = 0, Data offset = 26, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 42, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+ARP TX Reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 279, Remaining = 0, Data offset = 26, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 86, Remaining = 0, Data offset = 26, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 279, Remaining = 0, Data offset = 26, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 42, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+ARP TX Reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 86, Remaining = 0, Data offset = 26, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 279, Remaining = 0, Data offset = 26, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 86, Remaining = 0, Data offset = 26, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 42, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+ARP TX Reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 279, Remaining = 0, Data offset = 26, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
+[Task_ReceiveIRQ][450]IRQ received
+m2m_wifi_cb: 61
+[eth_callback][177]Ethernet callback triggered! Message type: 61
+[eth_callback][180]Ethernet RX packet response received.
+[eth_callback][189]Ethernet Frame Received buffer, Size = 98, Remaining = 0, Data offset = 30, Ifc ID = 1
+[ethernetRX][510]ethernetRX reached
+[ethernetTX][485]ethernetTx reached
+[Task_NetworkThread][434]Send raw command received
