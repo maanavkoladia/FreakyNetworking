@@ -15,11 +15,12 @@
 ## Supported Hardware
 - TI `TM4C` microcontroller series
 - Microchip WILC1000 WiFi module (SPI interface)
+- There is a SPI breakout KiCad layout for the WILC1000 in the hw/ folder.
 
 ## Architecture & RTOS Integration
 FreakyNetworking is tightly integrated with **FreakyRTOS**. It uses RTOS primitives such as tasks, semaphores, and timers to manage networking operations efficiently. 
 
-The RTOS and Networking is also integrated with **TivaWare** and **ValvanoWare**, enabling low-level hardware abstraction and peripheral management on TM4C devices.
+The FreakyRTOS and FreakyNetworking are also integrated with **TivaWare** and **ValvanoWare**, enabling low-level hardware abstraction and peripheral management on TM4C devices.
 
 ## Toolchain
 FreakyNetworking is built using the **GNU ARM Toolchain**, making it suitable for open-source and cross-platform development environments.

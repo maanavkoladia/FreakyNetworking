@@ -1,15 +1,3 @@
-// *************os.c**************
-// EE44//5M/EE380L.6 Labs 1, 2, 3, and 4 
-// High-level OS functions
-// Students will implement these functions as part of Lab
-// Runs on LM4F120/TM4C123
-// Jonathan W. Valvano 
-// Jan 12, 2020, valvano@mail.utexas.edu
-
-// timer0/2 unused
-//timer 1 used for os clock time
-//timer 3 and 4 used for periodtasks 
-//timer5 used for sleep checking every MS, and global MS time
 /* ================================================== */
 /*                      INCLUDES                      */
 /* ================================================== */

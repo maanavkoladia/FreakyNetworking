@@ -60,7 +60,6 @@ ifeq ($(MODE), hw)
 		FreakyRTOS/OS_Fifo.c \
 		FreakyRTOS/OS_MailBox.c \
 		FreakyRTOS/OS_Sema4.c \
-		FreakyRTOS/ADC.c \
 		FreakyRTOS/ST7735.c \
 		FreakyRTOS/UART0int.c \
 		FreakyRTOS/Interpreter.c \

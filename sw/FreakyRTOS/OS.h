@@ -1,15 +1,3 @@
-/**
- * @file      OS.h
- * @brief     Real Time Operating System for Labs 1, 2, 3, 4 and 5
- * @details   EE445M/EE380L.6
- * @version   V1.0
- * @author    Valvano
- * @copyright Copyright 2020 by Jonathan W. Valvano, valvano@mail.utexas.edu,
- * @warning   AS-IS
- * @note      For more information see  http://users.ece.utexas.edu/~valvano/
- * @date      Feb 13, 2023
-
- ******************************************************************************/
 #ifndef OS_H
 #define OS_H
 /* ================================================== */

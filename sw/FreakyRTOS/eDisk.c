@@ -1,16 +1,4 @@
-// eDisk.c
-// Runs on LM4F120/TM4C123
-// Use SSI0, PD7/PB0 to communicate with the SDC.
-// Valvano
-// Jan 12, 2020
-// added PB0 as a choice for card CS
-
-/* This example accompanies the books
-   "Embedded Systems: Real Time Interfacing to Arm Cortex M Microcontrollers",
-   ISBN: 978-1463590154, Jonathan Valvano, copyright (c) 2020
-   "Embedded Systems: Real-Time Operating Systems for ARM Cortex-M Microcontrollers",
-   ISBN: 978-1466468863, Jonathan Valvano, copyright (c) 2020
-
+/*
  Copyright 2020 by Jonathan W. Valvano, valvano@mail.utexas.edu
     You may use, edit, run or distribute this file
     as long as the above copyright notice remains
